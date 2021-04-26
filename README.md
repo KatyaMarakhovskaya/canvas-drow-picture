@@ -2,6 +2,7 @@
 It was created width Canvas
 
 You can draw somesthing.
+
 If you want to:
 
 clear screen - press C
