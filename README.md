@@ -1,5 +1,5 @@
 ### The program for drawing. 
-It was created width Canvas
+It was created with Canvas
 
 You can draw somesthing.
 
